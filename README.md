@@ -1,1 +1,1 @@
-# typescript-getstarted
+# gettingstarted-typescript
