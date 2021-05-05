@@ -1,0 +1,6 @@
+1- npm install -g typescript
+2- add live server extension in visual studio code it permits via 'Go live' 
+to run the page and do updates in realtime
+3- to compile the ts file into js file : terminal > tsc sandbox.ts sandbox.js
+=> same name sandbox ====> tsc sandbox.ts
+4- tsc sandbox.ts -w to watch while compiling
