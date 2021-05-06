@@ -4,3 +4,5 @@ to run the page and do updates in realtime
 3- to compile the ts file into js file : terminal > tsc sandbox.ts sandbox.js
 => same name sandbox ====> tsc sandbox.ts
 4- tsc sandbox.ts -w to watch while compiling
+5- tsc src/sandbox.ts => will compile ts to js inside src SO => 
+tsc --init ==> will generate tsconfig.json
